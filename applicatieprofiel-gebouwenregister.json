@@ -1,5 +1,5 @@
 {
-  "naam": "Vocabularium Gebouw",
+  "naam": "Applicatieprofiel Gebouwenregister",
   "verantwoordelijke_organisatie": "Agentschap Informatie Vlaanderen",
   "identificator_organisatie": "https://data.vlaanderen.be/doc/organisatie/OVO002949",
   "publicatiedatum": "2018-11-08",
@@ -7,8 +7,8 @@
   "categorie": "Vocabularium & applicatieprofielen",
   "specificatiedocument": [
     {
-      "naam": "Vocabularium Gebouw",
-      "waarde": "https://data.vlaanderen.be/ns/gebouw"
+      "naam": "Applicatieprofiel Gebouwenregister",
+      "waarde": "https://test.data.vlaanderen.be/doc/applicatieprofiel/gebouwenregister/"
     }
   ],
   "documentatie": [],
@@ -20,7 +20,7 @@
     }
   ],
   "presentaties": [],
-  "functioneel_toepassingsgebied": "Semantische standaard voor gebouwinformatie.",
+  "functioneel_toepassingsgebied": "Semantische standaard voor het bouwen van een gebouwenregister.",
   "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid",
   "datum_van_aanmelding": "10 April 2018 (retroactief)",
   "erkenning_werkgroep_datastandaarden": "8 november 2018 (Kandidaat-standaard)",

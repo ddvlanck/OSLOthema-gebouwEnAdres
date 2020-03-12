@@ -1,14 +1,14 @@
 {
-  "naam": "Vocabularium Gebouw",
+  "naam": "Applicatieprofiel Adresregister",
   "verantwoordelijke_organisatie": "Agentschap Informatie Vlaanderen",
   "identificator_organisatie": "https://data.vlaanderen.be/doc/organisatie/OVO002949",
-  "publicatiedatum": "2018-11-08",
+  "publicatiedatum": "TBD",
   "type_toepassing": "Aanbevolen (vrijwillig)",
   "categorie": "Vocabularium & applicatieprofielen",
   "specificatiedocument": [
     {
-      "naam": "Vocabularium Gebouw",
-      "waarde": "https://data.vlaanderen.be/ns/gebouw"
+      "naam": "Applicatieprofiel Adresregister",
+      "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/adresregister/"
     }
   ],
   "documentatie": [],
@@ -20,9 +20,9 @@
     }
   ],
   "presentaties": [],
-  "functioneel_toepassingsgebied": "Semantische standaard voor gebouwinformatie.",
+  "functioneel_toepassingsgebied": "Semantische standaard voor het bouwen van een adresregister.",
   "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid",
   "datum_van_aanmelding": "10 April 2018 (retroactief)",
-  "erkenning_werkgroep_datastandaarden": "8 november 2018 (Kandidaat-standaard)",
+  "erkenning_werkgroep_datastandaarden": "TBD",
   "erkenning_stuurgroep": "TBD"
 }
